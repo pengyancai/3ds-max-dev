@@ -1,0 +1,8 @@
+  * [MaxSpotlight Documentation](ProjectMaxSpotlightDocumentation.md)
+    * [Description ](ProjectMaxSpotlightDocumentation#Description.md)
+    * [Requirements](ProjectMaxSpotlightDocumentation#Requirements.md)
+    * [Install](ProjectMaxSpotlightDocumentation#Install.md)
+    * [How to use](ProjectMaxSpotlightDocumentation#How_to_use.md)
+    * [Properties](ProjectMaxSpotlightDocumentation#Properties.md)
+    * [Last thoughts](ProjectMaxSpotlightDocumentation#Last_thoughts.md)
+    * [External links](ProjectMaxSpotlightDocumentation#External_links.md)
